@@ -26,3 +26,9 @@ I would use parrallel installation as for two reasons. Firstly, as our digital c
 Since our product is an easy to use physical good, it would be most simple to provide a printed manual explaining the functions. Furthermore, our digital counter does not have many functions, therefore, a digital manual is useful. We could also provide a video manual as well. Other than that, we can have a list of frequentally asked questions just in case the buyers are not satisfied with our manual.
 
 ## Question 5: Think about ways to improve the usability, usefulness and desirability of your digital counter. Describe how your counter system addresses these three fundamental parts of the UX.
+
+Usefulness: Our product displays numbers using LED lights and projects sounds using a speaker. Therefore, to ensure usefulness, the lights must be bright enough to see and the speakers must project sound clearly. If we don't, it would be extremely difficult for users.
+
+Usability: We could make functions to change the color of the LED lights or the sound projected from the speakers. By doing so, it becomes more customizable and usable for users.
+
+Desirability: To improve desirability, we could find a way to cover the Arduino and the wires and make it look more unified. Currently, the product has many components to it and wires attached. This makes it look very complicated, which is the opposite to the functions of the product. By making it look more unified, people will desire it more due to the simplicity.
